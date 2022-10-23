@@ -1,0 +1,419 @@
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+/* Nav Bar */
+
+.navbar 
+{
+    display: flex;
+    background-color:#fff;
+
+  }
+  
+  .navbar a {
+    color:black;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+  
+  }
+  .nav-img
+  {
+    margin-left: 2%;
+  }
+  .nav-b
+  {
+   margin-left: 20%;
+  }
+  .nav-a
+  {
+    margin-top: 0.6%;
+    text-align: center;
+  }
+
+  .nav-search
+  {
+    margin-top: 1.4%;
+    margin-left: 20%;
+  }
+
+  /* section one */
+#one
+{
+    display: flex;
+    background-color: #F8F2ED;
+
+}
+.one-text
+{
+    max-width: 50%;
+    padding-left: 5%;
+    padding-bottom: 8%;
+}
+.one-text h1
+{
+    font-size: 50px;
+}
+.one-img
+{
+    min-width: 70%;
+}
+.text-size
+{
+    max-width: 100%;
+
+}
+.img2
+{
+margin-left: 15%;
+margin-top: 5%;
+}
+.img1
+{
+    position: relative;
+    right: 21.5%;
+    top: 5%;
+}
+.imggroup
+{
+    position: relative;
+    right: 35.5%;
+    top: 9%;
+}
+
+/* section two */
+#two
+{
+    display: flex;
+    padding-left: 15%;
+}
+.img3,.img4,.img5
+{
+    padding-left: 5%;
+    margin-top: -5%;
+}
+
+/* section three */
+#three
+{
+    display: flex;
+    padding-left: 2%;
+    margin-top: 3%;
+}
+ h1
+{
+    font-size: 40px;
+   margin-top: 8%;
+    padding-left: 2%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li a {
+    color: black;
+    display: block;
+    width: 60px;
+    text-decoration: none;
+  }
+  .vertical-bar
+  {
+    max-width: 30%;
+    padding-left: 2%;
+  }
+
+.img7
+{
+   
+position: relative;
+top: 23px;
+left: 75px;
+    
+}
+.img8
+{
+   
+position: relative;
+left: 95px;
+top: 23px;
+    
+}
+.img9
+{
+   
+position: relative;
+left: 115px;
+top: 23px;
+    
+}
+.img10
+{
+   
+position: relative;
+right: 50%;
+top: 63px;
+    
+}
+.img11
+{
+   
+position: relative;
+right: 40%;
+top: 63px;
+    
+}
+.img12
+{
+   
+position: relative;
+right: 32%;
+top: 63px;
+    
+}
+.tag
+{
+    padding-top: 10%;
+}
+/* section four */
+
+#four
+{
+    display: flex;
+    background-color: #F0F2FF;
+    margin-top: 10%;
+
+}
+.four-text
+{
+    max-width: 50%;
+    padding-right: 25%;
+    padding-bottom: 8%;
+    padding-top: 3%;
+}
+.four-text h1
+{
+    font-size: 40px;
+    
+
+}
+
+.four-img
+{
+    min-width: 50%;
+}
+.text-size
+{
+    max-width: 100%;
+
+}
+.img13
+{
+    position: relative;
+    left: 25.5%;
+    top: 9%;
+}
+.img14
+{
+    position: relative;
+    right: 10.5%;
+    top: 15%;
+}
+/* section five */
+h2
+{
+    font-size: 40px;
+    margin-top: 10%;
+    text-align: center;
+    /* padding-left: 15%; */
+}
+h4
+{
+    text-align: center;
+    margin-top: -19px;
+}
+#five
+{  margin-top: 5%;
+    display: flex;
+    padding-left: 15%;
+}
+.img16,.img17,.img18
+{
+    padding-left: 5%;
+ 
+}
+.img19
+{
+    position: relative;
+ 
+    top: 100%;
+    left: 20%;
+}
+.img20
+{
+    position: relative;
+ 
+    top: 50%;
+    left: 28%;
+}
+.img21
+{
+    position: relative;
+ 
+    top: 50%;
+    left: 35%;
+}
+#five-2
+{  margin-top: 1%;
+    display: flex;
+    padding-left: 15%;
+}
+.img22,.img23,.img24
+{
+    padding-left: 5%;
+ 
+}
+.img25
+{
+    position: relative;
+ 
+    top: 100%;
+    left: 20%;
+}
+.img26
+{
+    position: relative;
+ 
+    top: 50%;
+    left: 28%;
+}
+.img27
+{
+    position: relative;
+ 
+    top: 50%;
+    left: 35%;
+}
+
+/* section six */
+#six
+{
+    display: flex;
+    margin-top: 8%;
+    padding-left: 14%;
+
+}
+.six-text
+{
+    max-width: 50%;
+    padding-left: 5%;
+    padding-bottom: 8%;
+}
+.six-text h1
+{
+    font-size: 50px;
+}
+.six-img
+{
+    min-width: 70%;
+    
+}
+.text-size
+{
+    max-width: 100%;
+
+}
+.img28
+{
+    padding-top: 5%;
+}
+.img29
+{
+    position: relative;
+    left: 15.7%;
+    top: 12%;
+}
+.img30
+{
+    position: relative;
+    right: 15.5%;
+    top: 7%;
+}
+
+/* section seven */
+
+#seven
+{
+    background-color: #F8F2ED;
+}
+.seven-text
+{
+    
+text-align: center;
+padding-right: 40%;
+margin-left: 42%;
+margin-top: 5%;
+max-width: 60%;
+padding-top: 5%;
+
+}
+.img31
+{
+    position:relative;
+    left: 20%;
+    bottom: 125px;
+}
+.img32
+{
+    position:relative;
+    top: 5px;
+    left: 28%;
+   
+}
+.img33
+{
+    position:relative;
+    left: 35%;
+    bottom: 125px;
+}
+.img34
+{
+    position:relative;
+    right: 25%;
+    bottom: 35px;
+}
+#eigth
+{
+    background-color: black;
+    
+
+}
+/* footer */
+footer{
+    background-color: black;
+    display: flex;
+    margin-top: 10%;
+    
+}
+h4{
+    text-align: left;
+}
+.about , .products , .Discover{
+    color:#FFFFFF ;
+    /* margin: auto; */
+    padding-left: 250px;
+    padding-top: 80px;
+    
+}
+.about a, .products a, .Discover a{
+    color: rgba(255, 255, 255, 0.8);font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    line-height: 33px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+}
